@@ -1,4 +1,4 @@
-# D-art-Sounds
+# D'art-Sounds
 
 - Teclado de sons semelhante ao da Twitch;
 - Feito durante o Curso de desenvolvimento JavaScript na Alura;
